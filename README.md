@@ -5,6 +5,15 @@ API REST de livros.
 
 <br>
 
+## Rotas
+- POST: Adiciona um livro ao banco de dados.
+- GET: Recupera um livro.
+- GET: /id Recupera um livro pelo ID.
+- PUT: Atualiza um livro do banco de dados.
+- DELETE: Remove um livro do banco de dados.
+
+<br>
+
 ## Tecnologias
 - Node.js
 - Express.js
