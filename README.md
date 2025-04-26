@@ -1,4 +1,4 @@
-# Books API.
+# Books API
 
 # Descrição
 API REST de livros.
